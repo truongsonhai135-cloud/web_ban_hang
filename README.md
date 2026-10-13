@@ -17,9 +17,6 @@ py app.py
 ```
 Mở `http://127.0.0.1:5000`.
 
-Nếu đây là lần chạy đầu và bảng người dùng chưa có tài khoản nào, ứng dụng tạo:
-- Tên đăng nhập: `admin`
-- Mật khẩu: `Admin123`
 
 Nếu dùng file `pos.db` có sẵn trong gói, hãy dùng tài khoản đã có trong cơ sở dữ liệu đó. Không xóa `pos.db` nếu muốn giữ sản phẩm và hóa đơn.
 
